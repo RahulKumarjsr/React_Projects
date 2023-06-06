@@ -1,0 +1,1 @@
+Deployed link = https://clickncount2.netlify.app/
