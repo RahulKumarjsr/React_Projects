@@ -1,0 +1,1 @@
+//in this component quotes will be written which will be displayed in home component, create a database of quotes and add atleast 6 quotes reated to employees, the text will be in italics with a square with black background
